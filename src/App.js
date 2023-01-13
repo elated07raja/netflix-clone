@@ -10,7 +10,6 @@ function App() {
     <div className="app">
       <Nav />
       <Banner />
-      <Banner />
 
       <Row 
         title="Now Playing" 
